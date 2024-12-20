@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24px" height="24px">
+  <defs>
+    <linearGradient id="gold-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color: #ffdd00; stop-opacity: 1"/>
+      <stop offset="100%" style="stop-color: #ff8800; stop-opacity: 1"/>
+    </linearGradient>
+  </defs>
+  <polygon points="12 .587 15.668 8.157 24 9.313 18 15.048 19.419 23.336 12 18.897 4.581 23.336 6 15.048 0 9.313 8.332 8.157 12 .587" fill="url(#gold-gradient)" stroke="#ffaa00" stroke-width="1"/>
+</svg>
